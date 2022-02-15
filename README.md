@@ -25,7 +25,7 @@ In addition, you can specify the number of skills that DIAYN is going to learn. 
 python examples/diayn.py <NAME_OF_ENVIRONMENT> --skill_dim <NUMBER_OF_SKILLS>
 ```
 
-After training DIAYN, a file is saved onto `data/DIAYN_'DIAYN_<NUMBER_OF_SKILLS>_<ENVIRONMENT>_<DATE_AND_TIME>`. Use the saved file to train the manager using PPO.
+After training DIAYN, a file is saved onto `data/DIAYN_<NUMBER_OF_SKILLS>_<ENVIRONMENT>_<DATE_AND_TIME>`. Use the saved file to train the manager using PPO.
 ```
 python examples/ppo_diayn.py <NAME_OF_ENVIRONMENT> <PATH_TO_SUB_POLICY>/params.pkl
 ```
