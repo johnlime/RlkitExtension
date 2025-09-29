@@ -17,7 +17,7 @@ python examples/ppo.py
 
 Here is an example implementation result on the OpenAI Gym environment, Bipedal Walker-v2:
 
-[![example video](https://img.youtube.com/vi/xf2WyVV5kEw/hqdefault.jpg)](https://www.youtube.com/watch?v=xf2WyVV5kEw)
+[![example video](https://img.youtube.com/vi/zf0sh0jtIWU/hqdefault.jpg)](https://www.youtube.com/watch?v=zf0sh0jtIWU)
 
 
 ### Other Major Contributors
